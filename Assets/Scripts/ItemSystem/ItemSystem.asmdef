@@ -1,0 +1,16 @@
+{
+    "name": "ItemSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0fd25f89e65f2ae4c9be13b96c3d4e02"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

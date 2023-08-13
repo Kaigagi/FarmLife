@@ -1,0 +1,12 @@
+﻿/.idea
+/Library
+/Temp
+/Logs
+/MemoryCaptures
+/obj
+/UserSettings
+*.csproj
+*.sln
+
+
+
